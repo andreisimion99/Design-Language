@@ -1,0 +1,4 @@
+&IDiv Variable
+SET: %s 10
+IDIV: %s 3
+CIRCLE: %s 120 120
